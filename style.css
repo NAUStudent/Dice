@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Datcub;
+    src: url('fonts/Datcub.ttf');
+}
+body{
+    font-family: Datcub, serif;
+    background-color:black;
+}
+#result{
+    color:aqua;
+    text-align: center;
+    font-size: 86px;
+    padding:5%;
+}
+.container{
+    border: 12px dashed aqua;
+    padding: 6%;
+    display: flex;
+    justify-content: space-around;
+}
